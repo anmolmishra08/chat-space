@@ -5,7 +5,7 @@ A real-time chat application built with **Node.js**, **Express**, and **WebSocke
 ---
 
 ## 🌐 Live Demo
-coming soon
+[chatspace is live here](https://chat-space-7c97.onrender.com)
 
 ---
 
@@ -31,7 +31,7 @@ coming soon
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/vivek-shaw-02/chatspace.git
+git clone https://github.com/anmolmishra08/chatspace.git
 cd chatspace
 
 # 2. Install dependencies
@@ -51,7 +51,7 @@ Open in two tabs or devices with the same chat code to test real-time messaging 
 ## 📸 Screenshot
 
 > (Add a screenshot here once you're ready!)
-![chatspace preview](./screenshot.PNG)
+![chatspace preview](./screenshot.png)
 
 ---
 
@@ -60,7 +60,7 @@ Open in two tabs or devices with the same chat code to test real-time messaging 
 
 ## 🙌 Author
 
-Made with 💻 by **[Vivek Shaw](https://github.com/vivek-shaw-02)**  
+Made with 💻 by **[Anmol Mishra](https://github.com/anmolmishra08)**  
 2025
 
 ---
