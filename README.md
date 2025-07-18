@@ -5,8 +5,7 @@ A real-time chat application built with **Node.js**, **Express**, and **WebSocke
 ---
 
 ## 🌐 Live Demo
-
-👉 [ChatSpace is live here!](https://chatspace-vd95.onrender.com)
+coming soon
 
 ---
 
